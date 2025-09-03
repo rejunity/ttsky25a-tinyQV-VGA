@@ -122,6 +122,8 @@ project:
     - "user_peripherals/npu/peripheral.v"
     - "user_peripherals/vga_tester/peripheral.v"
     - "user_peripherals/hamming_7_4/hamming_7_4.v"
+    - "user_peripherals/vga/vga_timing.v"
+    - "user_peripherals/vga/peripheral.v"
     - "tinyQV/cpu/tinyqv.v"
     - "tinyQV/cpu/alu.v"
     - "tinyQV/cpu/core.v"
